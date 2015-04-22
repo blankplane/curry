@@ -1,0 +1,35 @@
+body{
+background-image:url(../resource/background.jpg);
+}
+.main{
+color:#FFFFFF;
+background-color:rgba(0,0,0,0.6);
+width:1000px;
+height:500px;
+margin-left:100px;
+margin-top:100px;
+padding:40px;
+border-radius:10px; 
+}
+.title{
+opacity:1;
+color:#FFFFFF;
+line-height:40px;
+font-size:36px;
+font-family:'Microsoft YaHei UI';
+}
+.content{
+opacity:1;
+font-size:24px;
+font-family:'Microsoft YaHei UI';
+line-height:25px;
+color:#FFFFFF;
+}
+.down{
+opacity:1;
+font-size:24px;
+font-family:'Microsoft YaHei UI';
+color:#FFFFFF;
+line-height:40px;
+margin-top:60px;
+}
